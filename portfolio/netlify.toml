@@ -1,0 +1,7 @@
+[build]
+publish = workingPortfolio/portfolio
+[[redirects]]
+from = jessicasporfolio.netlify.com
+to = jessicamelissamitchell.com
+status = 301
+force = true
